@@ -26,5 +26,14 @@ public class Sebastian {
        this.age = age;
     }
 
+    public void method(int task){
+
+
+    }
+
+    public void method(int task, int second){
+
+
+    }
 
 }
